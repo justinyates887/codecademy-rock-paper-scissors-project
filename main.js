@@ -1,3 +1,8 @@
+//Variable declarations
+let userInput;
+let userChoice;
+let computerChoice;
+
 // Welcome the user
 function welcome(){
     console.log('__________               __        __________                               _________      .__                                  ');
